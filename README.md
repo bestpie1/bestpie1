@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MasonBrillo" alt="sujal-ops-cyber" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bestpie1" alt="sujal-ops-cyber" /> </p>
 
 ### Heya 🌸, I'm bestpie1
 
@@ -30,17 +30,17 @@
 **⚙ Discord Bots I Own**
 
 
-<p align="center">&nbsp;<img align="center" src="https://top.gg/api/widget/727647807267405935.svg?usernamecolor=FFFFFF&topcolor=f781bc" alt="MasonBrillo" /><img align="center" src="https://top.gg/api/widget/827290882125332530.svg?usernamecolor=FFFFFF&topcolor=ffd6e1" alt="MasonBrillo" /><img align="center" src="https://top.gg/api/widget/787541705293037579.svg?usernamecolor=FFFFFF&topcolor=7679ae" alt="MasonBrillo" />
+<p align="center">&nbsp;<img align="center" src="https://top.gg/api/widget/727647807267405935.svg?usernamecolor=FFFFFF&topcolor=f781bc" alt="bestpie1" /><img align="center" src="https://top.gg/api/widget/827290882125332530.svg?usernamecolor=FFFFFF&topcolor=ffd6e1" alt="bestpie1" /><img align="center" src="https://top.gg/api/widget/787541705293037579.svg?usernamecolor=FFFFFF&topcolor=7679ae" alt="bestpie1" />
 
 **🤝 Get in touch!**
 
 
 <p align="left"><a href="https://discord.com/users/664193794429943848" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/MasonBrillo" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a></p>
+<a href="https://github.com/bestpie1" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a></p>
 
 **💜 Github Status!**
 
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=MasonBrillo&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MasonBrillo&show_icons=true&hide_border=true&theme=tokyonight&count_private=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonBrillo&theme=tokyonight&hide=batchfile"> 
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=bestpie1&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=bestpie1&show_icons=true&hide_border=true&theme=tokyonight&count_private=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestpie1&theme=tokyonight&hide=batchfile"> 
