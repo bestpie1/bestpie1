@@ -7,12 +7,10 @@
 ![Discord](https://discord.c99.nl/widget/theme-3/664193794429943848.png)
 
  **Information:**
- 
-> - 👨‍💻 I am the main creator of CutieBot **[ClickHere](https://top.gg/bot/727647807267405935)**
+
 > - ❇ Reach me on discord **[ClickHere](https://discord.com/users/664193794429943848)**
-> - 🔭 I’m currently working on  **My Discord Bots shown below and other discord bots that people have requested for their personal server**
-> - 🌱 I’m currently learning  **JavaScript**
-> - 👯 I’m looking to collaborate with **Other Discord Bot Developers to help make a discord bot with them.**
+> - 🔭 I’m currently working on  **My Discord Bots shown below, other discord bots that people have requested for their personal server and VRChat Avatars**
+> - 🌱 I’m currently learning  **JavaScript & Python**
 
 **🛠️ Languages and Tools:**
 
