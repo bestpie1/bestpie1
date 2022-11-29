@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bestpie1" alt="sujal-ops-cyber" /> </p>
 
-### Hello, I'm bestpie1
+### Hello 🐱‍🏍, I'm bestpie1
 
 *Hey, I'm bestpie1, a intermediate discord bot Developer from California that is interested in helping people out!* 🚀
 
