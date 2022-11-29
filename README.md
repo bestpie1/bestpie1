@@ -20,6 +20,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><a href="https://discord.js.org"><img src="https://imgur.com/wXDzUpp.png" width="20" alt="discord.js"></a></code>
 <code><a href="https://glitch.com"><img src="https://imgur.com/ddfEeab.png" width="20" alt="glitch.com"></a></code>
+<code><a href="https://replit.com/"><img src="https://replit.com/public/images/sm.png" width="20" alt="replit.com"></a></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"></code>
