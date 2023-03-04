@@ -27,7 +27,7 @@
 
 **⚙ Discord Bots I Own**
 
-
+All of the discord bots listed down below are currently discontinued. (I am working on a discord bot and will release it soon)
 <p align="center">&nbsp;<img align="center" src="https://top.gg/api/widget/727647807267405935.svg?usernamecolor=FFFFFF&topcolor=f781bc" alt="bestpie1" /><img align="center" src="https://top.gg/api/widget/827290882125332530.svg?usernamecolor=FFFFFF&topcolor=ffd6e1" alt="bestpie1" /><img align="center" src="https://top.gg/api/widget/787541705293037579.svg?usernamecolor=FFFFFF&topcolor=7679ae" alt="bestpie1" />
 
 **🤝 Get in touch!**
