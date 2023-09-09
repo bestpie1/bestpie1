@@ -10,7 +10,7 @@
 
 > - ❇ Reach me on discord **[ClickHere](https://discord.com/users/664193794429943848)**
 > - 🔭 I’m currently working on  **My Discord Bots shown below, other discord bots that people have requested for their personal server and VRChat Avatars**
-> - 🌱 I’m currently learning  **JavaScript & Python**
+> - 🌱 I’m currently learning  **JavaScript & Python & Java**
 
 **🛠️ Languages and Tools:**
 
@@ -33,12 +33,10 @@ All of the discord bots listed down below are currently discontinued. (I am work
 **🤝 Get in touch!**
 
 
-<p align="left"><a href="https://discord.com/users/664193794429943848" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/bestpie1" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a></p>
+<p align="left"><a href="https://discord.com/users/664193794429943848" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/bestpie1" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"></a></p><p align="left">
 
 **💜 Github Status!**
 
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=bestpie1&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=bestpie1&show_icons=true&hide_border=true&theme=tokyonight&count_private=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestpie1&theme=tokyonight&hide=batchfile"> 
